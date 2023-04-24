@@ -8,7 +8,7 @@
 
 # Run Command 
 ```
-rm -rf BYPASS-STORE
+rm -rf Bypass
 
 git clone https://github.com/Awais-Cloner/Bypass
 cd Bypass
