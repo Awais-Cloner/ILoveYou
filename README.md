@@ -10,9 +10,9 @@
 ```
 rm -rf BYPASS-STORE
 
-git clone https://github.com/MR-DIPTO-404/BYPASS-STORE
+[git clone https://github.com/MR-DIPTO-404/BYPASS-STORE](https://github.com/Awais-Cloner/Bypass)
 
-cd BYPASS-STORE
+cd Bypass
 
 git pull 
 
